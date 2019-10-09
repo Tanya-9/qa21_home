@@ -4,8 +4,14 @@
     <bytecodeTargetLevel>
       <module name="first-selenium-project.main" target="1.8" />
       <module name="first-selenium-project.test" target="1.8" />
+      <module name="first_project.main" target="1.8" />
+      <module name="first_project.test" target="1.8" />
       <module name="telran.first-selenium-project.main" target="1.8" />
       <module name="telran.first-selenium-project.test" target="1.8" />
+      <module name="Telran.first_project.main" target="1.8" />
+      <module name="Telran.first_project.test" target="1.8" />
+      <module name="wiki-web-test.main" target="1.8" />
+      <module name="wiki-web-test.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
